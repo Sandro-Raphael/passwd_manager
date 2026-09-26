@@ -76,8 +76,8 @@ A API possui operações para:
 Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/Sandro-Raphael/passwd_manager
+cd PasswordManager
 ```
 
 Crie um ambiente virtual:
